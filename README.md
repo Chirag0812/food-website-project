@@ -8,7 +8,7 @@
   HOW TO START THE PROJECT<br>
   1) Download Project Zip file in your local device and Extract the files in some folder.<br>
   2) Open that Folder in your Code Editor.<br>
-  3) Open both the folders named "front-end" and "backend" in Terminal respectively.<br>
+  3) Open both the folders named "front-end" and "server" in Terminal respectively.<br>
   4) Run the Command <i>npm i</i> in both the terminal tabs.<br>
   5) Now run the server by typing command <i>npm run server</i> in your terminal where server is open.<br>
   6) Finally run the project by typing command <i>npm start</i> in your terminal where front-end folder is opened.
